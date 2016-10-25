@@ -27,11 +27,9 @@ ellipse(335, 180, 10, 10);//Left Eye.
 ellipse(365, 180, 10, 10);//Right Eye.
 
 fill(235,137,33); //Orange Colour.
-ellipse(350, 195, 10, 10); //Nose.
-
 //10 Shapes
+arc(325,191,50,50,0,PI/ 8); //Nose.
 
-  
-arc(350,195,50,50,0,20);
+
   // Do not forget comments!
 }
