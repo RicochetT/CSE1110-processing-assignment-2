@@ -30,6 +30,12 @@ fill(235,137,33); //Orange Colour.
 //10 Shapes
 arc(325,191,50,50,0,PI/ 8); //Nose.
 
+stroke(139,69,19);//Brown Colour.
+strokeWeight(4);
+line(200,220,300,250);
+line(400,250,500,200);
 
-  // Do not forget comments!
+stroke(0,0,0);
+
+
 }
